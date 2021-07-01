@@ -6,8 +6,8 @@ for i in range(2,no):
     else:
         flag=0
 if flag>0:
-    print("its prime")
-else:
     print("its not a prime")
+else:
+    print("its  a prime")
 
 
